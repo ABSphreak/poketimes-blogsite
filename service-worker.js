@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/poketimes-blogsite/precache-manifest.8a5ddca1e0d813328e0408c09965d05d.js"
+  "/poketimes-blogsite/precache-manifest.2625d88aceb221511af852f1e8d6fd8c.js"
 );
 
 self.addEventListener('message', (event) => {
