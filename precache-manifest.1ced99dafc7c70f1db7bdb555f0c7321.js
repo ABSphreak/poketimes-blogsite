@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "06178cab1c068b93e788f4347ba1270d",
+    "revision": "fa9ae46b43b8e7e0809508c1127fb1ed",
     "url": "/poketimes-blogsite/index.html"
   },
   {
-    "revision": "013db40c460f59e99459",
+    "revision": "534b6cc95fcbd8f49b5e",
     "url": "/poketimes-blogsite/static/css/main.34bff393.chunk.css"
   },
   {
-    "revision": "76023fe371233ecaed16",
-    "url": "/poketimes-blogsite/static/js/2.2dbcb7c9.chunk.js"
+    "revision": "4065fa4c83a5219a319b",
+    "url": "/poketimes-blogsite/static/js/2.0ee5b9f4.chunk.js"
   },
   {
     "revision": "e928fe768baa9832b5bc57eae021f30c",
-    "url": "/poketimes-blogsite/static/js/2.2dbcb7c9.chunk.js.LICENSE"
+    "url": "/poketimes-blogsite/static/js/2.0ee5b9f4.chunk.js.LICENSE"
   },
   {
-    "revision": "013db40c460f59e99459",
-    "url": "/poketimes-blogsite/static/js/main.8add852f.chunk.js"
+    "revision": "534b6cc95fcbd8f49b5e",
+    "url": "/poketimes-blogsite/static/js/main.138ccf90.chunk.js"
   },
   {
     "revision": "64f58c5ba724188c9718",
