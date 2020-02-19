@@ -5,7 +5,7 @@
 There are two branches:
 
 1. `master` → React Code ⚛
-2. `gh-pages` → Deployment build 🌐
+2. `gh-pages` → Deployed Site 🌐
 
 ## Available Scripts
 
